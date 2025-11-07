@@ -12,6 +12,7 @@ Technical Skills: Python (Pandas, NumPy, Matplotlib, NetworkX), R, SQL (Database
 ###📂 Projects
 Here are some highlights of my work:
 - Toronto Bike Collision Analysis (2019–2024): Analysis of bike collisions in Toronto with trends, heatmaps, and dashboards.
+- Hospital Wait time Analysis
 
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/tinatran158/
