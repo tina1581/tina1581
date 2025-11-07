@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Tina! 👋
+Welcome to my GitHub profile!
 
-<!--
-**tina1581/tina1581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about health care, data analysis, visualization, and programming, and I love turning data into insights that tell a story.
 
-Here are some ideas to get you started:
+### 🔍 About Me
+I am a Math and its Applications student at TMU with a strong passion for leveraging data to improve healthcare systems, enhance efficiency, and support informed decision-making. Through exploring different areas of mathematics, I have discovered that statistics is particularly powerful for turning data into meaningful insights. I enjoy analyzing patterns, solving real-world problems, and applying data-driven solutions to make meaningful impacts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+Technical Skills: Python (Pandas, NumPy, Matplotlib, NetworkX), R, SQL (Database Querying/ Management), Statistics (Hypothesis Testing, Regression), Power BI, Advanced Excel (Pivot Tables, Vlookups), Project Management (CAPM), Process Improvement, Laboratory Techniques (HPLC, GC, ELISA) Certifications: Google Data Analytics Certificate, CAPM Certificate in progress
+
+###📂 Projects
+Here are some highlights of my work:
+- Toronto Bike Collision Analysis (2019–2024): Analysis of bike collisions in Toronto with trends, heatmaps, and dashboards.
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/tinatran158/
+- Email: tina5.tran@torontomu.ca
+- Portfolio: https://github.com/tina1581
