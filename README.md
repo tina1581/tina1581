@@ -9,7 +9,7 @@ I am a Math and its Applications student at TMU with a strong passion for levera
 ### 🛠 Skills
 Technical Skills: Python (Pandas, NumPy, Matplotlib, NetworkX), R, SQL (Database Querying/ Management), Statistics (Hypothesis Testing, Regression), Power BI, Advanced Excel (Pivot Tables, Vlookups), Project Management (CAPM), Process Improvement, Laboratory Techniques (HPLC, GC, ELISA) Certifications: Google Data Analytics Certificate, CAPM Certificate in progress
 
-###📂 Projects
+### 📂 Projects
 Here are some highlights of my work:
 - Toronto Bike Collision Analysis (2019–2024): Analysis of bike collisions in Toronto with trends, heatmaps, and dashboards.
 - Hospital Wait time Analysis
