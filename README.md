@@ -7,7 +7,7 @@ I am passionate about health care, data analysis, visualization, and programming
 I am a Math and its Applications student at TMU with a strong passion for leveraging data to improve healthcare systems, enhance efficiency, and support informed decision-making. Through exploring different areas of mathematics, I have discovered that statistics is particularly powerful for turning data into meaningful insights. I enjoy analyzing patterns, solving real-world problems, and applying data-driven solutions to make meaningful impacts.
 
 ### 🛠 Skills
-Technical Skills: Python (Pandas, NumPy, Matplotlib, NetworkX), R, SQL (Database Querying/ Management), Statistics (Hypothesis Testing, Regression), Power BI, Advanced Excel (Pivot Tables, Vlookups), Project Management (CAPM), Process Improvement, Laboratory Techniques (HPLC, GC, ELISA) Certifications: Google Data Analytics Certificate, CAPM Certificate in progress
+Technical Skills: Python (Pandas, NumPy, Matplotlib, NetworkX), R, SQL (Database Querying/ Management), Statistics (Hypothesis Testing, Regression), Power BI, Advanced Excel (Pivot Tables, Vlookups/Xlookup), Process Improvement, Laboratory Techniques (HPLC, GC, ELISA) Certifications: Google Data Analytics Certificate, CAPM Certificate in progress
 
 ### 📂 Projects
 Here are some highlights of my work:
