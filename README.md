@@ -1,4 +1,4 @@
-## Hi, I'm Tina! �
+## Hi, I'm Tina! 
 Welcome to my GitHub profile!
 
 I am passionate about health care, data analysis, visualization, and programming, and I love turning data into insights that tell a story.
